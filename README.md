@@ -60,6 +60,7 @@ Compared to the 5% noise case, Insertion Sort became slower because the array wa
 
 Example command:
 
+```bash
 python run_experiments.py -a 1 3 5 -s 100 500 1000 3000 -e 0 -r 5
 
 ### Parameters:
